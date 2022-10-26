@@ -35,4 +35,4 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 # db
-/src/app.node_modules.ts
+/src/app.module.ts
